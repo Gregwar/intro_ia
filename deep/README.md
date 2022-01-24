@@ -2,14 +2,17 @@
 
 ## Slides
 
-[Introduction du MIT](6S191_MIT_DeepLearning_L1.pdf)
+Les slides présentées en cours sont les [slides du MIT](MIT_introduction.pdf)
+
+Source: https://introtodeeplearning.com/
 
 ## Tutoriel
 
-[Tutoriel Tensorflow](https://www.tensorflow.org/tutorials/quickstart/beginner)
+Tout d'abord, suivez le  [Tutoriel Tensorflow](https://www.tensorflow.org/tutorials/quickstart/beginner)
 
 ## Jeu de données "custom"
 
-En utilisant [ce tutoriel](https://www.tensorflow.org/tutorials/load_data/images), faites un réseau pour reconnaître les [balles](https://gregwar.com/data/rhoban_balls.tgz)
+En utilisant [ce tutoriel](https://www.tensorflow.org/tutorials/load_data/images), faites un réseau pour
+reconnaître les [balles de Rhoban](https://gregwar.com/data/rhoban_balls.tgz)
 
 
