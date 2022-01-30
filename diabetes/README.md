@@ -26,3 +26,4 @@ Chargez le fichier [diabetes.csv](diabetes.csv) dans un *notebook* Python
 - Faites la même chose, en mettant de couleur différente les points qui ont un `Outcome` différent
 - Essayez d'utiliser de trouver des indicateurs qui permettraient de bien séparer les données
 (classifier), et de construire un modèle simple qui permettrait de prédire la valeur de `Outcome`
+- Testez la qualité de votre méthode
